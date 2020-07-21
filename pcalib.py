@@ -1,6 +1,6 @@
 
 #PCAlib by Ivan Achille.
-#external packages needed: sklearn, matplotlib, pandas
+#external packages needed: sklearn, pandas
 
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
