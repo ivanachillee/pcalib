@@ -1,5 +1,5 @@
 # PCAlib
-PCAlib is a micro-library built in Python 3 for fast and easy-to-use Principal Component Analysis (PCA) data transformation. It will help you to reduce high-dimensional data into a N amount of components.
+PCAlib is a micro-library built in Python 3 for fast and easy-to-use Principal Component Analysis (PCA) data transformation. It will help you to reduce high-dimensional data into a N amount of components with a simplified class function.
 
 ## Requirements
 You will need the following packages to run PCAlib:
